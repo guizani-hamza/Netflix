@@ -8,8 +8,9 @@ Ce projet a pour objectif d’explorer le comportement des abonnés d’un servi
 
 ## 🛠️ Outils & Technologies
 
+- Python (EDA)
 - Power BI Desktop
-- Power Query (ETL)
+- Power Query 
 - DAX (Data Analysis Expressions)
 - Modélisation en étoile (star schema)
 
