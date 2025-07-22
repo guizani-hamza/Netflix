@@ -56,3 +56,7 @@ Le rapport Power BI est organisé en **3 pages thématiques** :
 ## 👨‍💻 Auteur
 
 Hamza Guizani – Data Analyst 
+
+guizanihamza44@gmail.com
+https://www.linkedin.com/in/hamza-guizani/
+https://www.malt.fr/profile/hamzaguizani
